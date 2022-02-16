@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Projet = () => {
+const Card = () => {
     return (
         <div>
             
@@ -8,5 +8,5 @@ const Projet = () => {
     );
 };
 
-export default Projet;
-{/*explication projet + lien github (rapport)*/}
+export default Card;
+{/*mettre une image + description 1 phrase maxi */}
