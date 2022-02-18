@@ -2,12 +2,20 @@ import React from "react";
 
 const NotFound = () => {
   return ( 
-    <div>
-      <h1>ERREUR 404</h1>
-    <div className="logo 404">
-        <img src="./404.jpg" alt="logo404" />
+    <div className="Error404">
+      <h1 class="404_text">
+        Un petit problème ? 
+      </h1>
+      <h1> Erreur 404</h1>
+        <br></br>
+          <p className="descrip_me">
+              Page Not Found
+          </p>
+          <div className="picture_404">
+          
+          </div>
     </div>
-    </div>
+
   );
 };
 

@@ -8,7 +8,17 @@ const Art = () => {
         <Logo />
         <Navigation />
         <h1>Art</h1>
+        <div className='illustration_me'>
+
         </div>
+        <div className='icons_me'>
+
+        </div>
+        <div className='tableaux_me'>
+            
+        </div>
+        </div>
+    
     );
 };
 

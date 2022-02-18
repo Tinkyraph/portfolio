@@ -8,6 +8,15 @@ const Work = () => {
         <Logo />
         <Navigation />
         <h1>Work</h1>
+        <div className='html/css/js'>
+
+        </div>
+        <div className='react'>
+
+        </div>
+        <div className='autres'>
+            
+        </div>
         </div>
     );
 };
